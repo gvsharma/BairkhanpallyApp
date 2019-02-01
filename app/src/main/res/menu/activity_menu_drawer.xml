@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="మన ఊరి చరిత్ర"/>
+        <item
+                android:id="@+id/nav_weather"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="భౌగోలిఖ వివరాలు"/>
+        <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="గ్యాలరి"/>
+        <item
+                android:id="@+id/nav_prajalu_upadi"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="ఊరి ప్రజలు - ఉపాది"/>
+        <item
+                android:id="@+id/nav_contacts"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="ముఖ్యమైన కాంటాక్ట్ లు"/>
+
+
+            <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="షేర్ చేయి"/>
+            <item
+                    android:id="@+id/nav_send"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="సలహాలు - సూచనలు"/>
+
+</group>
+
+</menu>

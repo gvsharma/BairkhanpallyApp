@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BairkhanpallyApp</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">బైర్ ఖాన్ పల్లి</string>
+    <string name="nav_header_subtitle">మన ఊరి సమాచారం</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="simple_fragment_transition">simple_fragment_transition</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mana_charitra">1982 -87 => మొట్టమొదటి గ్రామ సర్పంచుగా సాయిని రాఘవేందర్ రావు గారు నియమితులయ్యారు\n
+
+        \n1987 - 1992 => 2 వ సర్పంచుగా లాదినేని యాదగిరి రావు గారు సేవలందించారు\n
+
+        \n1996 - 2001=> 3 వ సర్పంచుగా సాయిని రాఘవేందర్ రావు గారు పదవి చేపట్టారు\n
+
+        \n2001 - 2006=> 4 వ సర్పంచుగా గాదెకాడి లక్షమ్మ గారు పదవి చేపట్టారు\n
+
+        \n2006 - 2011=> 5 వ సర్పంచుగా సభావట్ రూప్ల నాయక్ గారు పదవి చేపట్టారు\n
+
+        \n2013 - 2018=> 6 వ సర్పంచుగా బైకని వరమ్మ గారు పదవి చేపట్టారు\n
+
+        \n2019 నుంది => 7 వ సర్పంచుగా గాదెకాడి క్రిష్ణయ్య గారు నియమితులయ్యరు
+    </string>
+
+    <string name="about_current_sarpanch">గ్రామ సర్పంచ్ - గాదెకాడి క్రిష్ణయ్య
+        క్రిష్ణయ్య గారు 1970 లో జన్మించారు, 1986 లొ 10వ తరగతి పూర్తి చేసారు, తర్వాత కుటుంబ అవసరాల నిమిత్తం చదువుని కొనసాగించలేక పొయారు. ఆయన్ కి నాయకత్వ లక్షణాలు పుష్కలంగా ఉండేవి.   2001లో తొలిసార్ సర్పంచ్ గా బైర్ ఖాన్ పల్లి లొ ఎస్ సి మహిళా రిజర్వ్ అవ్వడం తో వారి భార్య లక్ష్మమ్మ గారిని సర్పంచ్ అభ్యర్తి గా నిలిపి విజయం సాదించారు.</string>
+    <string name="about_deputy_sarpanch">గ్రామ సర్పంచ్ - గుండెగల్ల మనెమ్మ
+        మనెమ్మ గారు 1950 లో జన్మించారు.
+    </string>
+
+</resources>
