@@ -84,9 +84,9 @@ class HomeActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                 var fragment = BougolikaVivaraaluFragment()
                 supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
             }
-            R.id.nav_share -> {
-//                var fragment = GalleryFragment();
-//                supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
+            R.id.nav_contacts -> {
+                var fragment = KeyContactsFragment();
+                supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
             }
             R.id.nav_send -> {
                 var fragment = SuggestionsFragment();
