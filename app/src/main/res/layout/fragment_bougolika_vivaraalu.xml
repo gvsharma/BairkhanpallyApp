@@ -10,6 +10,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:textSize="18sp"
+            android:padding="8dp"
+            android:layout_margin="4dp"
             android:text="@string/village_political_details"/>
 
 </FrameLayout>
