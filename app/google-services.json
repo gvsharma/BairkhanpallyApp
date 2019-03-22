@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270761303252",
+    "firebase_url": "https://bairkhanpallyapp.firebaseio.com",
+    "project_id": "bairkhanpallyapp",
+    "storage_bucket": "bairkhanpallyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270761303252:android:fb0ccf93898ff222",
+        "android_client_info": {
+          "package_name": "com.bairkhanpally.bairkhanpallyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270761303252-r47qkoo0kj428q4kmkso4u1247ag8i7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bairkhanpally.bairkhanpallyapp",
+            "certificate_hash": "a4bbf9a68d9e95bf91a921f42b70fc97b00f39c2"
+          }
+        },
+        {
+          "client_id": "270761303252-6h4ql50j71lu2noknsobkvoq6nmd66be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu8_zlCBOlJBeNyNzQVpDOwMtQLlG-r8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270761303252-6h4ql50j71lu2noknsobkvoq6nmd66be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
