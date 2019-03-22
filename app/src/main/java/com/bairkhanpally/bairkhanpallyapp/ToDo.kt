@@ -10,6 +10,7 @@ package com.bairkhanpally.bairkhanpallyapp
 
 //https://developer.android.com/jetpack
 
+
 //implementation 'androidx.core:core-ktx:1.0.0'
 
 //https://www.raywenderlich.com/5376-introduction-to-android-jetpack
