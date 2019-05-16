@@ -42,6 +42,7 @@ class HomeActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         nav_view.setCheckedItem(R.id.nav_about)
         var fragment = ManaCharitraFragment();
         supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
+        supportActionBar?.title = resources.getString(R.string.mana_village)
     }
 
     override fun onBackPressed() {
@@ -74,27 +75,33 @@ class HomeActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             R.id.nav_about -> {
                 // Handle the camera action
                 var fragment = ManaCharitraFragment();
+                supportActionBar?.title = resources.getString(R.string.mana_village)
                 supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
             }
             R.id.nav_gallery -> {
                 var fragment = GalleryFragment();
                 supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
+                supportActionBar?.title = resources.getString(R.string.menu_item3)
             }
             R.id.nav_prajalu_upadi -> {
                 var fragment = PrajaluUpaadiFragment();
                 supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
+                supportActionBar?.title = resources.getString(R.string.menu_item4)
             }
             R.id.nav_weather -> {
                 var fragment = BougolikaVivaraaluFragment()
                 supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
+                supportActionBar?.title = resources.getString(R.string.menu_item2)
             }
             R.id.nav_contacts -> {
                 var fragment = KeyContactsFragment();
                 supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
+                supportActionBar?.title = resources.getString(R.string.menu_item5)
             }
             R.id.nav_send -> {
                 var fragment = SuggestionsFragment();
                 supportFragmentManager.beginTransaction().replace(R.id.content_layout, fragment).commit()
+                supportActionBar?.title = resources.getString(R.string.menu_item7)
             }
         }
 

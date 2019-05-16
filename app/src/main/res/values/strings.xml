@@ -65,5 +65,12 @@
         గ్రామ జనాభా = 1500, పురుషులు = 800, స్ర్తీలు = 700, పిల్లలు = 300.
         గ్రామ్ములో అదిక కుటుంబాలు వ్యవసయముపైన ఆధారపడి జీవిస్తున్నాయి, రెండవ స్థానం లో ఉపాధి కూలీలు ఉన్నారు. వారు వివిధ  పనులకు వెలుతు జీవనొపాధి పొందుతున్నారు
     </string>
+    <string name="mana_village">మన ఊరి చరిత్ర</string>
+    <string name="menu_item2">భౌగోలిఖ వివరాలు</string>
+    <string name="menu_item3">గ్యాలరి</string>
+    <string name="menu_item4">ఊరి ప్రజలు - ఉపాది</string>
+    <string name="menu_item5">ముఖ్యమైన కాంటాక్ట్ లు</string>
+    <string name="menu_share">షేర్ చేయి</string>
+    <string name="menu_item7">సలహాలు - సూచనలు</string>
 
 </resources>
