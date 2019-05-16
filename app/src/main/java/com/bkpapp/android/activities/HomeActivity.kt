@@ -1,19 +1,15 @@
-package com.bairkhanpally.bairkhanpallyapp.activities
+package com.bkpapp.android.activities
 
-import android.content.Intent
-import android.net.Uri
 import android.os.Bundle
 import android.support.design.widget.Snackbar
 import android.support.design.widget.NavigationView
-import android.support.v4.app.ActivityCompat
 import android.support.v4.view.GravityCompat
 import android.support.v7.app.ActionBarDrawerToggle
 import android.support.v7.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
-import com.bairkhanpally.bairkhanpallyapp.R
-import com.bairkhanpally.bairkhanpallyapp.fragments.*
-import com.google.android.gms.appinvite.AppInviteInvitation
+import com.bkpapp.android.R
+import com.bkpapp.android.fragments.*
 import kotlinx.android.synthetic.main.activity_menu.*
 import kotlinx.android.synthetic.main.app_bar_menu.*
 

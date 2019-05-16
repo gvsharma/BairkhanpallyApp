@@ -1,9 +1,4 @@
-package com.bairkhanpally.bairkhanpallyapp
-
-import android.support.v4.app.ActivityCompat.startActivityForResult
-import com.google.android.gms.appinvite.AppInviteInvitation
-import android.content.Intent
-
+package com.bkpapp.android
 
 
 //TODO Room database

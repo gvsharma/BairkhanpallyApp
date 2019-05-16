@@ -1,4 +1,4 @@
-package com.bairkhanpally.bairkhanpallyapp
+package com.bkpapp.android
 
 import org.junit.Test
 

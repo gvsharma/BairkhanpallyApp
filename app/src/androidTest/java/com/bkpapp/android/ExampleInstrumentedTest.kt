@@ -1,4 +1,4 @@
-package com.bairkhanpally.bairkhanpallyapp
+package com.bkpapp.android
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

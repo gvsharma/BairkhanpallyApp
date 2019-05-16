@@ -5,12 +5,10 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 apply plugin: 'kotlin-kapt'
-apply plugin: 'com.google.gms.google-services'
-
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.bairkhanpally.bairkhanpallyapp"
+        applicationId "com.bkpapp.android"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
@@ -43,8 +41,4 @@ dependencies {
     implementation 'io.reactivex.rxjava2:rxjava:2.1.17'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation 'com.google.firebase:firebase-core:16.0.0'
-    implementation 'com.google.firebase:firebase-crash:16.0.0'
-    implementation 'com.google.firebase:firebase-invites:16.0.0'
-    implementation 'com.google.firebase:firebase-messaging:17.0.0'
 }
