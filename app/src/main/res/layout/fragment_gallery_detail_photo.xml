@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="250dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/gorilla"
+        android:src="@drawable/bkp_pic"
         android:transitionName="@string/simple_fragment_transition"
         tools:ignore="UnusedAttribute" />
 
